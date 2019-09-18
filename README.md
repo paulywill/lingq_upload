@@ -19,7 +19,7 @@ Here's a great [article](https://goodcode.io/articles/django-rest-framework-file
 
 
 ## To Use Script
-Create ``.env``, make sure it have the following parameters:
+Create ``.env``, make sure it has the following parameters:
 
 ```
 #APIKey="Token api_number"
