@@ -14,7 +14,7 @@ If there's an easier way to scrap the content "legally" from a Kindle book with 
 Uploading an audio file was very problematic and not at all intuitive in part because of the limitations of [Django REST Framework (DRF)](https://stackoverflow.com/a/28036805/664933
 )
 
-Here's a great [article]((https://goodcode.io/articles/django-rest-framework-file-upload/)) for reference. 
+Here's a great [article](https://goodcode.io/articles/django-rest-framework-file-upload/) for reference. 
 
 
 
