@@ -12,7 +12,6 @@ load_dotenv()
 key = os.getenv("APIKey")
 postAddress = os.getenv("postAddress")
 mypath = os.getenv("mypath")
-mp3DIR = os.getenv("mp3DIR")
 status = os.getenv("status")
 collectionID = os.getenv("collectionID")
 
