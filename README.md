@@ -11,6 +11,11 @@ With the Kindle reader I am able to shrink the font size to a tiny size and copy
 
 If there's an easier way to scrap the content "legally" from a Kindle book with latest version of Amazon Kindle Reader, I did not find one in my quick research. 
 
+
+__EDIT: Publisher has limits places on Kindle Reader:__ https://twitter.com/paulwillgamble/status/1181667329798791168?s=20
+
+
+
 Uploading an audio file was very problematic and not at all intuitive in part because of the limitations of [Django REST Framework (DRF)](https://stackoverflow.com/a/28036805/664933
 ).
 
